@@ -11,37 +11,51 @@ Aplikasi Manajemen Karyawan adalah aplikasi berbasis konsol yang dirancang untuk
 ### Fitur untuk Admin
 1. **Lihat Data Karyawan**
    - Menampilkan semua data karyawan dalam format tabel yang rapi.
+   - ![image](https://github.com/user-attachments/assets/60a0faec-b600-48ce-99d0-5844d0fd4691)
    - Mencari data karyawan berdasarkan ID.
+   - ![image](https://github.com/user-attachments/assets/fc0adb6e-fb11-4d9b-bbb2-7b5571904455)
    - Mencari data karyawan berdasarkan kata kunci (Nama, Jabatan, Departemen, Tempat Tinggal, atau Nomor Telepon).
+   - ![image](https://github.com/user-attachments/assets/8a995902-baf2-4edc-8962-78707f367364)
 
 2. **Tambah Akun Karyawan**
    - Menambahkan akun karyawan baru dengan informasi lengkap seperti nama, gender, tanggal lahir, alamat, departemen, jabatan, nomor telepon, dan status.
+   - ![image](https://github.com/user-attachments/assets/e9ecb7f0-5537-4d18-a9c6-df1ef8972e65)
 
 3. **Perbarui Akun Karyawan**
    - Memperbarui informasi karyawan termasuk nama, gender, tanggal lahir, alamat, departemen, jabatan, nomor telepon, status, dan kata sandi.
+   - ![image](https://github.com/user-attachments/assets/630a4e42-8008-4cb3-9872-c4796b12ded3)
 
 4. **Hapus Akun Karyawan**
    - Menghapus akun karyawan berdasarkan ID.
+   - ![image](https://github.com/user-attachments/assets/9c7b9b0d-ffb4-45ca-a180-51c42f43bc59)
    - Menghapus karyawan berdasarkan departemen.
+   - ![image](https://github.com/user-attachments/assets/b0310f4b-31c0-4a60-a3ba-6aa27589dc8a)
+
 
 5. **Logout**
    - Keluar dari akun admin.
+   - ![image](https://github.com/user-attachments/assets/f31e4913-4cb0-4d08-972f-db3de50264fa)
 
 6. **Keluar Aplikasi**
    - Menutup aplikasi.
+   - ![image](https://github.com/user-attachments/assets/96a9e5ee-ac25-4858-aaa7-5dbd94aa84a9)
 
 ### Fitur untuk Karyawan
 1. **Lihat Data Diri**
    - Menampilkan data diri karyawan yang sedang login.
+   - ![image](https://github.com/user-attachments/assets/8e4a1dd7-fa5b-4329-90c9-9db65999f2c9)
 
 2. **Perbarui Data Diri**
    - Memperbarui nomor telepon dan alamat tempat tinggal.
+   - ![image](https://github.com/user-attachments/assets/74f73245-f5ae-4b5b-a5a5-b88335026ab5)
 
 3. **Logout**
    - Keluar dari akun yang sedang login.
+   - ![image](https://github.com/user-attachments/assets/6dbd38a0-ee51-4bb4-b662-4d292ee1493c)
 
 4. **Keluar Aplikasi**
    - Menutup aplikasi.
+   - ![image](https://github.com/user-attachments/assets/91c589ce-4509-4e4c-9334-dd943fee709d)
 
 ## Cara Penggunaan
 
